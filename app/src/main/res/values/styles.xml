@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:windowBackground">@drawable/main_50</item>-->
+        <item name="android:windowBackground">@color/imageBackgroundLight</item>
+        <item name="colorButtonNormal">#FFFFFF</item>
+        <item name="android:textColor">#817C81</item>
+        <item name="colorPrimary">#F7E4EB</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+
+
+    <style name="DarkTheme" parent="Theme.AppCompat.NoActionBar">
+        <!--<item name="android:windowBackground">@drawable/darkmap</item>-->
+        <item name="android:colorBackground">@color/imageBackgroundDark</item>
+        <item name="colorButtonNormal">#000000</item>
+        <item name="android:textColor">#72F2EE</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+
+
+</resources>

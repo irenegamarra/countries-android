@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name= "mapsapikey">AIzaSyBChYwtdDZ6Uov43yUHyh7P-tw4xnelwGs</string>
+    <string name= "reversegeoapikey">9f5d9fff00849b</string>
+</resources>

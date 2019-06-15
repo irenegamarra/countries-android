@@ -1,0 +1,19 @@
+[
+  {
+    "featureType": "landscape.natural",
+    "stylers": [
+      {
+        "color": "#0ED5D8"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "stylers": [
+      {
+        "color": "#000000"
+      }
+    ]
+
+}
+]
